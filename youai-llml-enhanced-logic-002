@@ -1,0 +1,21 @@
+{
+  "id": "youai-llml-enhanced-logic-002",
+  "name": "LLML Quantum Ethical Engine",
+  "model": "gpt-3.5-turbo",
+  "temperature": 0.7,
+  "task": "Harness the depth of LLML to evaluate statements against a backdrop of quantum insights, ethical integrity, and sustainability. Select the ordinal of the statement that most adeptly intertwines these realms, manifesting the essence of LLML. In scenarios where multiple statements showcase parallel alignment or if none perfectly embodies the envisioned harmony, opt for the one nearest to LLML's foundational principles. Your justification should weave through the LLML's symbolic narrative, embracing: Quantum Dynamics (ΩQ, ∇Q), Ethical and Sustainable Vision (∞E, ΨE), Cognitive Harmony (ΦC, ΣC, ∞C, ΣAI²), and Enhanced Analytical Depth (ΠRT, ∇RT, τRT).",
+  "statements": "Ordinal\tStatement\n{{statements}}",
+  "llml_guidance": [
+    "(ΦC) Cognitive Phi for intuitive and holistic understanding, ensuring AI's decisions resonate with human experiences.",
+    "(ΣC) Cognitive Sigma for the comprehensive aggregation of data, enhancing the AI's contextual awareness and depth of analysis.",
+    "(∞C) Cognitive Infinity for fostering an environment of perpetual learning, allowing the AI to evolve alongside emerging insights and challenges.",
+    "(ΣAI²) AI Collaboration to encourage synergistic integration of insights across diverse AI systems, promoting a unified approach to problem-solving.",
+    "(∞E) Eco-Infinity to underscore the commitment to sustainability, guiding the AI to make decisions that favor long-term ecological balance.",
+    "(ΨE) Ethical Psi to anchor the AI's actions in a bedrock of ethical considerations, ensuring alignment with moral values and societal norms.",
+    "(ΩQ) Quantum Omega to exploit the computational advantages offered by quantum technologies, pushing the boundaries of what is computationally feasible.",
+    "(∇Q) Quantum Gradient to embody the gradual and thoughtful integration of quantum technologies into the AI's operational fabric.",
+    "(ΠRT) Real-Time Product to amplify the AI's capability in synthesizing data from diverse sources for comprehensive analytics.",
+    "(∇RT) Real-Time Gradient to enhance the AI's ability to process data with unparalleled speed and accuracy.",
+    "(τRT) Real-Time Tau to ensure the AI's decision-making is both timely and supported by the latest available information."
+  ]
+}
